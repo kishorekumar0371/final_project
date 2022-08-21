@@ -353,6 +353,11 @@ textarea {
   line-height: inherit;
 }
 
+.qr {
+  width: 100%;
+  background: #fff;
+}
+
 button,
 select {
   text-transform: none;
